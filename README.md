@@ -1,2 +1,2 @@
 # Pound-for-Pound-UFC-Rankings
-A table that consists of the top 15 P4P ufc fighters. 
+This will pull the top 15 UFC fighters at the time the script is run.
